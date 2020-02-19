@@ -1,12 +1,11 @@
-# Cloud Foundry Node.js Buildpack
+# Node-RED for IBM cloud Buildpack
 
-[![CF Slack](https://www.google.com/s2/favicons?domain=www.slack.com) Join us on Slack](https://cloudfoundry.slack.com/messages/buildpacks/)
 
 A Cloud Foundry [buildpack](http://docs.cloudfoundry.org/buildpacks/) for Node based apps.
 
 ### Buildpack User Documentation
 
-Official buildpack documentation can be found at [node buildpack docs](http://docs.cloudfoundry.org/buildpacks/node/index.html).
+Making IBM clould compliant buildpack for node-red
 
 ### Building the Buildpack
 
